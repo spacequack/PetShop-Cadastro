@@ -2,13 +2,13 @@
 Registro de animais para um petshop
 
 BackEnd de uma aplicação web utilizando:
-Python - linguagem
-FastAPI - framework API rest
-SQLalchemy - biblioteca python
-SQLlite - Banco de dados  
+linguagem - Python | 
+framework API rest - FastAPI |  
+biblioteca python - SQLalchemy |
+Banco de dados - SQLlite  
+
 
 Funçôes:
-
 Criar Registro do animal:
   nome:
   idade:
