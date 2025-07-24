@@ -9,13 +9,8 @@ Banco de dados - SQLlite
 
 
 Funçôes:
-Criar Registro do animal:
-  nome:
-  idade:
-  especie:
-  sexo:
-  cor:
-
+Criar Registro do animal(nome: | idade: | especie: | sexo: | cor:)
+  
 Listar Animais:
 
 Buscar um Animal pelo seu ID:
